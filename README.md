@@ -6,6 +6,8 @@ I don't have a lot of computer skills 🖥️ but I made this GitHub ReadMe to s
 
 I am currently exploring Go and Python
 
+---
+
 Thanks for checking out my GitHub, and have a flippin' sweet day!
 
 <!---
